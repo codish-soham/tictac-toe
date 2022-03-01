@@ -1,4 +1,6 @@
+![TIC TAC ](https://user-images.githubusercontent.com/100342875/156107634-47fcef74-1cd3-49bf-af3e-dfcc157629d8.jpg)
 # tictac-toe
+
 **OUTPUT 1**
 --+---+----
 1 | 2 | 3 | 
